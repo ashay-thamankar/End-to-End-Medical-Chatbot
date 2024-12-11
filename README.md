@@ -79,4 +79,11 @@ An end-to-end medical chatbot that enables **semantic search** and leverages **G
 
 ---
 
+## 💻 Author  
+**Ashay Thamankar**  
+- [GitHub](https://github.com/ashay-thamankar)  
+- [LinkedIn](https://www.linkedin.com/in/ashay-thamankar)  
+
+---
+
 🎉 Happy chatting with your intelligent medical assistant! 😊
